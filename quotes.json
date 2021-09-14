@@ -1,0 +1,39 @@
+[
+  {
+    "id": "1",
+    "quote": "A woman without a man is like a fish without a bicycle.",
+    "author": "Irina Dunn",
+    "tags": [
+      "feminism",
+      "humour",
+      "women"
+    ]
+  },
+  {
+    "id": "2",
+    "quote": "A woman knows very well that, though a wit sends her his poems, praises her judgment, solicits her criticism, and drinks her tea, this by no means signifies that he respects her opinions, admires her understanding, or will refuse, though the rapier is denied him, to run through the body with his pen.",
+    "author": "Virginia Woolf, Orlando",
+    "tags": [
+      "criticism",
+      "dignity",
+      "double-standards",
+      "empowerment",
+      "equality",
+      "feminism",
+      "gender",
+      "hypocrisy",
+      "judgment",
+      "men",
+      "misogyny",
+      "poetry",
+      "respect",
+      "women",
+      "writing"
+    ]
+  },
+  {
+    "id": "3",
+    "quote": "Male domination is so rooted in our collective unconscious that we no longer even see it.",
+    "author": "Pierre Bourdieu"
+  }
+]
